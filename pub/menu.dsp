@@ -10,21 +10,35 @@
 	<P>
 	<table WIDTH="100%" cellspacing=0 cellpadding=1 border=0>
 		<tr>
-			<td class="menusectionHeader">Menu</td>
-		</tr>
-		<tr>
-			<td class="menuitem" >
-				<A href="/WmRoot/scheduler.dsp" target="main"><span class="menuitemspan">Scheduler</span></a></nobr>
+			<td class="menusection-Server"><img src="/WmRoot/images/blank.gif" width="4" height="1" border="0">
+				Management
 			</td>
 		</tr>
 		<tr>
-			<td class="menuitem" >
-				<A href="/WmART/ListResources.dsp?adapterTypeName=HxSystemMonitorAdapter&dspName=.LISTRESOURCES" target="main"><span class="menuitemspan">Connections</span></a></nobr>
+			<td class="menuitem">
+				<nobr>
+					<img valign="middle" src="/WmRoot/images/blank.gif" width="4" height="1" border="0">
+					<image valign="middle"  src="/WmRoot/images/blank.gif" height="8" width="8" border="0">
+					<a href="/WmRoot/scheduler.dsp" target="rightFrame"><span class="menuitemspan">Scheduler</span></a>
+				</nobr>
 			</td>
 		</tr>
 		<tr>
-			<td class="menuitem" >
-				<A href="summary.dsp" target="main"><span class="menuitemspan">Summary</span></a></nobr>
+			<td class="menuitem">
+				<nobr>
+					<img valign="middle" src="/WmRoot/images/blank.gif" width="4" height="1" border="0">
+					<image valign="middle"  src="/WmRoot/images/blank.gif" height="8" width="8" border="0">
+					<a href="/WmART/ListResources.dsp?adapterTypeName=HxSystemMonitorAdapter&dspName=.LISTRESOURCES" target="rightFrame"><span class="menuitemspan">Connections</span></a>
+				</nobr>
+			</td>
+		</tr>
+		<tr>
+			<td class="menuitem">
+				<nobr>
+					<img valign="middle" src="/WmRoot/images/blank.gif" width="4" height="1" border="0">
+					<image valign="middle"  src="/WmRoot/images/blank.gif" height="8" width="8" border="0">
+					<a href="summary.dsp" target="rightFrame"><span class="menuitemspan">Summary</span></a>
+				</nobr>
 			</td>
 		</tr>
 	</table>

@@ -1,44 +1,65 @@
-<HTML>
-    <HEAD>
-        <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
-        <META HTTP-EQUIV="Expires" CONTENT="-1">
-        <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
-        <LINK REL="stylesheet" TYPE="text/css" HREF="css/systemMonitor.css">
-    </HEAD>
-    <BODY  style="border-bottom: 1px solid #D6D7D6; background-color: #F0F0E0;" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
-        <TABLE border=0 cellspacing=0 cellpadding=0 height=100% width=100%>
-            <TR>
-                <TD>
-                    <TABLE width=100% CELLSPACING=0 BORDER=0>
-                        <TR>
-                            <TD nowrap class="pagetitle" width="100%">
-                                Integration Server
-                                ::
-                                Hx System Monitor
-                            </TD>
-                            <TD bgcolor="FFFFFF">
-                                
-                            </TD>
-                        </TR>
-                    </TABLE>
-                </TD>
-            </TR>
-            <TR height=100%>
-                <TD>
-                    <TABLE width=100% height=100% CELLSPACING=0 BORDER=0>
-                        <TR>
-                            <TD nowrap width=100% class="topmenu">&nbsp;
-                            </TD>
-                            <TD nowrap valign="bottom" class="topmenu">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Frame Top</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=utf-8">
+<META HTTP-EQUIV="Expires" CONTENT="-1">
+<style>
+BODY {
+	FONT-SIZE: x-small; COLOR: black; LINE-HEIGHT: 12pt; FONT-FAMILY: Tahoma
+}
+.navbar {
+	FONT-SIZE: x-small; COLOR: #ffffff; FONT-FAMILY: Tahoma;
+}
+.navbar A {
+	FONT-SIZE: x-small; COLOR: #ffffff; FONT-FAMILY: Tahoma;
+}
+.maintitle {
+	FONT-WEIGHT: bold; FONT-SIZE: x-small; letter-spacing: 2pt; COLOR: #ffffff; FONT-FAMILY: Tahoma
+}
+.sectionheader {
+	FONT-WEIGHT: bold; FONT-SIZE: x-small; COLOR: black; FONT-FAMILY: Tahoma
+}
+.pagetext {
+	FONT-WEIGHT: normal; FONT-SIZE: x-small; COLOR: black; LINE-HEIGHT: 12pt
+}
+A {
+	FONT-SIZE: x-small; COLOR: #2a4b83; FONT-FAMILY: Tahoma;
+}
+.footer {
+	FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: Verdana
+}
+A.footer {
+	FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: Verdana
+}
+.Popup {
+	FONT-WEIGHT: normal; FONT-SIZE: x-small; COLOR: black; LINE-HEIGHT: 12pt
+}
+.Popup A {
+	FONT-WEIGHT: normal; FONT-SIZE: x-small; COLOR: #2a4b83; FONT-FAMILY: Tahoma; TEXT-DECORATION: underline
+}
+</style>
+</HEAD>
 
-                            </TD>
-                        </TR>
-                        <TR>
-                        </TR>
-                    </TABLE>
-                </TD>
-            </TR>
-        </TABLE>
-    </BODY>
-</HTML>
+
+<BODY vLink=#003399 aLink=#003399 link=#003399 leftMargin=0 topMargin=0>
+<TABLE cellSpacing=0 cellPadding=0 width=100% height=100% style="border-collapse: collapse" >
+  <TBODY>
   
+  <tr>
+  <td>
+        <TABLE width=100% CELLSPACING=0 BORDER=0>
+           <TR>
+              <TD nowrap class="maintitle" width="100%" bgcolor="#000000">%sysvar host% :: HX System Monitor</TD>
+           </TR>
+        </TABLE>
+  </td>
+  </tr>
+
+  <TR>
+    <TD valign=bottom align=right colSpan=2 class="topmenu" bgcolor="#E7EBEF">    
+    <a class=navbar href="javascript:window.close();" target=_top>
+    <font color="#000000">Close Window</font></a> 
+    </TD>
+
+  </TR>
+</table>
+</BODY></HTML>

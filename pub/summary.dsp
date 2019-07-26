@@ -7,8 +7,8 @@
 	<meta http-equiv="refresh" content="%value refreshInterval%">
 	%endinvoke%
 	<META HTTP-EQUIV="Expires" CONTENT="-1">
-	<LINK REL="stylesheet" TYPE="text/css" HREF="css/systemMonitor.css">
 	<script src="/WmRoot/webMethods.js.txt"></script>
+	<LINK REL="stylesheet" TYPE="text/css" HREF="/WmRoot/webMethods.css">
 </HEAD>
 <BODY>
 <TABLE width="100%">
