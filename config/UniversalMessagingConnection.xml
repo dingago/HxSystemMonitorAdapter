@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<connection>
+<factoryClass>hx.systemMonitorAdapter.connections.UniversalMessagingConnectionFactory</factoryClass>
+<displayName>UniversalMessagingConnection</displayName>
+<description>Adapter Connection for accessing Universal Messaging</description>
+<helpUrl>/HxSystemMonitorAdapter/doc/OnlineHelp/HxSystemMonitorAdapterUniversalMessagingConnectionConfigurationHelp.html</helpUrl>
+<field>
+	<name>universalMessagingAlias</name>
+	<displayName>Universal Messaging Alias</displayName>
+</field>
+</connection>

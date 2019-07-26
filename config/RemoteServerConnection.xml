@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<connection>
+<factoryClass>hx.systemMonitorAdapter.connections.RemoteServerConnectionFactory</factoryClass>
+<displayName>RemoteServerConnection</displayName>
+<description>Adapter Connection for accessing remote Integration Server</description>
+<helpUrl>/HxSystemMonitorAdapter/doc/OnlineHelp/HxSystemMonitorAdapterRemoteServerConnectionConfigurationHelp.html</helpUrl>
+<field>
+	<name>remoteServerAlias</name>
+	<displayName>Remote Server Alias</displayName>
+</field>
+</connection>

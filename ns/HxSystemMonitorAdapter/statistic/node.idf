@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_nsName">HxSystemMonitorAdapter.statistic</value>
+  <value name="is_public">false</value>
+  <value name="encodeutf8">true</value>
+  <value name="shared">cHJpdmF0ZSBzdGF0aWMgSGFzaHRhYmxlPFN0cmluZywgSGFzaHRhYmxlPFN0cmluZyxTdGF0aXN0
+aWNEYXRhPj4gY29ubmVjdGlvblR5cGVEYXRhID0gbmV3IEhhc2h0YWJsZTxTdHJpbmcsIEhhc2h0
+YWJsZTxTdHJpbmcsIFN0YXRpc3RpY0RhdGE+PigpOwpwcml2YXRlIHN0YXRpYyBIYXNodGFibGU8
+U3RyaW5nLCBTdGF0aXN0aWNEYXRhPiBjb25uZWN0aW9uRGF0YSA9IG5ldyBIYXNodGFibGU8U3Ry
+aW5nLCBTdGF0aXN0aWNEYXRhPigpOwpwcml2YXRlIHN0YXRpYyBTaW1wbGVEYXRlRm9ybWF0IGZv
+cm1hdCA9IG5ldyBTaW1wbGVEYXRlRm9ybWF0KCJ5eXl5L01NL2RkIEhIOm1tOnNzIik7Cgpwcml2
+YXRlIHN0YXRpYyBjbGFzcyBTdGF0aXN0aWNEYXRhewoJcHJpdmF0ZSBTdHJpbmcgY29ubmVjdGlv
+blR5cGU7Cglwcml2YXRlIFN0cmluZyBjb25uZWN0aW9uTmFtZTsKCXByaXZhdGUgYm9vbGVhbiBv
+bmxpbmU7Cglwcml2YXRlIFN0cmluZyBlcnJvck1lc3NhZ2U7Cglwcml2YXRlIERhdGUgdGltZXN0
+YW1wOwoJCglwdWJsaWMgU3RhdGlzdGljRGF0YShTdHJpbmcgY29ubmVjdGlvblR5cGUsIFN0cmlu
+ZyBjb25uZWN0aW9uTmFtZSwgYm9vbGVhbiBvbmxpbmUsIFN0cmluZyBlcnJvck1lc3NhZ2UpewoJ
+CXRoaXMuY29ubmVjdGlvblR5cGUgPSBjb25uZWN0aW9uVHlwZTsKCQl0aGlzLmNvbm5lY3Rpb25O
+YW1lID0gY29ubmVjdGlvbk5hbWU7CgkJdGhpcy5vbmxpbmUgPSBvbmxpbmU7CgkJdGhpcy50aW1l
+c3RhbXAgPSBuZXcgRGF0ZSgpOwoJCXRoaXMuZXJyb3JNZXNzYWdlID0gZXJyb3JNZXNzYWdlOwoJ
+fQp9</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>com.softwareag.util.IDataMap</value>
+    <value>java.text.SimpleDateFormat</value>
+    <value>java.util.ArrayList</value>
+    <value>java.util.Date</value>
+    <value>java.util.Hashtable</value>
+    <value>java.util.List</value>
+  </array>
+</Values>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<connection>
+<factoryClass>hx.systemMonitorAdapter.connections.BrokerConnectionFactory</factoryClass>
+<displayName>BrokerConnection</displayName>
+<description>Adapter Connection for accessing Broker</description>
+<helpUrl>/HxSystemMonitorAdapter/doc/OnlineHelp/HxSystemMonitorAdapterBrokerConnectionConfigurationHelp.html</helpUrl>
+<field>
+	<name>brokerAlias</name>
+	<displayName>Broker Alias</displayName>
+</field>
+</connection>
